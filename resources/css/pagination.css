@@ -1,0 +1,13 @@
+nav.pagination{
+    span,
+    a{
+        @apply
+            s
+    }
+    
+    .disabled{
+        @apply
+            bg-blue-500
+            text-white
+    }
+}

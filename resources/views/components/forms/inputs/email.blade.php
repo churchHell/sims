@@ -1,0 +1,1 @@
+<x-forms.input {{ $attributes->merge(['wire:model' => 'email', 'name' => 'email', 'icon' => 'at']) }}></x-forms.input>

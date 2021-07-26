@@ -1,0 +1,1 @@
+<x-forms.input wire:model='password' icon='key' type='password'></x-forms.input>
